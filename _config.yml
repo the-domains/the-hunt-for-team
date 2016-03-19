@@ -1,0 +1,28 @@
+name: The Hunt For Team
+favicon: null
+layout_spectrum: 0.506546959746629
+typography_spectrum: 0.24004769464954734
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9886445610318333
+  lightness: 0.10463774669915438
+  saturation: 0.7421774368267506
+  rhythmicContrast: 0.39429083629511297
+purpose: []
